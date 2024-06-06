@@ -2,6 +2,10 @@
 
 This Python application utilizes Selenium WebDriver to scrape data from Google Maps based on a specific search keyword. The data includes titles, links, websites, ratings, reviews, and phone numbers of the listed entities.
 
+## Proxies Recommendation
+
+By the way, using good quality proxies is crucial for scraping. I recommend using NodeMaven. Use `Michael` at checkout to get +2GB of free traffic when purchasing any package (except trials) - [https://go.nodemaven.com/scrape](https://go.nodemaven.com/scrape)
+
 ## Features
 
 - Anonymize proxy usage to prevent blocking.
